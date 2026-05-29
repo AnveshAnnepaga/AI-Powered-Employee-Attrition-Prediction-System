@@ -4,6 +4,8 @@ An enterprise-grade, high-end interactive predictive analytics platform built to
 
 Designed with a premium **dark glassmorphic space-grey theme** and glowing royal purple accents, the interface provides seamless, high-contrast visual clarity for HR executives and enterprise decision-makers.
 
+⚡ **Live Demo**: Access the deployed platform directly here: **[AI-Powered Employee Attrition Predictor](https://ai-powered-employee-attrition-predictionsystem.streamlit.app/)**
+
 ---
 
 ## 🌟 Core Platform Features
@@ -84,7 +86,7 @@ Ensure you have Python 3.8+ installed on your system.
 ### 2. Clone the Repository
 Clone this repository to your local workspace:
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/AnveshAnnepaga/AI-Powered-Employee-Attrition-Prediction-System.git
 cd AI-Powered-Employee-Attrition-Prediction-System
 ```
 
